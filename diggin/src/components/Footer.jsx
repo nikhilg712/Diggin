@@ -3,8 +3,8 @@ import {Link} from 'react-router-dom'
 
 const Footer = () => {
   return (
-    <div>
-      I am Footer
+    <div className='text-center font-medium'>
+      2024 Diggin, Inc.
     </div>
   )
 }
